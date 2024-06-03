@@ -8,6 +8,8 @@
 
 [YouTube - Configuration instructions contributed by Jason KM4ACK](https://youtu.be/9ZZXg60tN-o)
 
+### I'll be converting this to a Node.js version which proxies the URLs in tbe iFrames in the original design based on [this Node.js Proxy example](https://github.com/DarkCyTic/simple-nodejs-proxy) and the [MM MagicMirror framework](https://magicmirror.builders/).
+
 ### Quick Help:
 * Double click on an image to expand to full screen.
 * Double click again to close full screen view.
